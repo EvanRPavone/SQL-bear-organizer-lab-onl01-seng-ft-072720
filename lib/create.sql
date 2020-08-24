@@ -11,6 +11,6 @@ CREATE TABLE bears (
 -- CREATE TABLE cats (
 --   name TEXT,
 --   age INTEGER,
---   breed TEXT, 
+--   breed TEXT,
 --   net_worth INTEGER
 -- );
